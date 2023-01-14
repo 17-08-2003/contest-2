@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,500;0,600;0,700;1,400&display=swap');
+
+
+
+.sidenav{
+    height: 97%;
+  width: 160px;
+  position: fixed;
+  padding-left: 118px;
+  z-index: 1;
+  top: 0;
+  color:white;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+  border-radius: 16px;
+}
+img{
+    margin-left:-104px;
+    
+}
+h3{
+    margin-left: -29px;
+    font-size: 13px;
+    margin-top: -14px;
+    color: rgba(255, 255, 255, 0.5);
+    
+}
+h5{
+    margin-left: -37px;
+    font-size: 19px;
+}
+.rectangle-1{
+    border-radius: 3px;
+    margin: 25px;
+    margin-left: -55px;
+    padding: 10px;
+    background-color: #111;
+    margin-top: -2px;
+    
+}
+button{
+    background-color: #111111;
+    margin: 7px;
+    margin-left: -9px;
+    border-radius: 20px;
+    color:rgba(255, 255, 255, 0.5);
+}
+.btn-1{
+    padding: 10px;
+    margin-left: -47px;
+    padding-left: 48px;
+    padding-right: 51px;
+}
+.btn-2{
+    padding: 10px;
+    margin-left: -43px;
+    padding-left: 33px;
+    padding-right: 50px;
+}
+.btn-3{
+    padding: 10px;
+    margin-left: -44px;
+    padding-left: 43px;
+    padding-right: 70px;
+}
+.rectangle-2{
+    width: 83%;
+    height: 588px;
+    margin: 272px;
+    background: #111;
+    color: white;
+    margin-top: -7px;
+    margin-right: -5px;
+    background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 35px;
+}
+.image-2{
+    margin-left: 597px;
+    padding: 44px;
+    margin-top: -312px;
+    padding-left: 0px;
+
+}
+.square{
+    width:36%;
+    padding: 55px;
+}
+p{
+    color: rgba(255, 255, 255, 0.5);
+    font-family: 'Mulish', sans-serif;
+
+}
+h1{
+    font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+margin:16px;
+
+color: #FFFFFF;
+}
+.rectangle-3{
+    position: absolute;
+width: 1323px;
+height: 464px;
+left: 279px;
+top: 619px;
+
+background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+}
+h1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+h1{
+    margin:33px;
+}
+.section-1{
+    background:#262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+width:1058px;
+height:331px;
+margin:38px;
+}
+.iron-man{
+    background-color: #111111;
+    height:1110px;
+
+
+}
+@media(min-width: 1728px) {
+   .image-2 img{ width:608px;
+    margin-top: -167px;
+    margin-left: -91px;
+    
+}
+.square{
+    width:18%;
+    
+
+}
+.rectangle-2{
+    width:83%;
+    
+}
+.sidenav{
+    height: 69%;
+}
+.section-1{
+    width: 736px;
+    height:355px;
+}
+.rectangle-3{
+    width:838px;
+    height:482px;
+}
+}
